@@ -1,1 +1,2 @@
 Menguasai Basic statistica, ML model dll dalam setengah tahun ini
+Menguasai Flask, Rest API React, Next JS
